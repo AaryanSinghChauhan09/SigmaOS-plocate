@@ -3,7 +3,7 @@ name = "SigmaOS-plocate"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "plocate component"
+description = "SigmaOS SigmaOS-plocate component"
 upstream = []
 
 [contract]
